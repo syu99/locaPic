@@ -1,4 +1,4 @@
-# Contribuer à FaceUp
+# Contribuer à locaPic
 
 Nous sommes ravis que vous envisagiez de contribuer à FaceUp!
 
