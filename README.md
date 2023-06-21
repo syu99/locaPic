@@ -2,15 +2,15 @@
 
 ## Description
 
-locaPic est une application mobile permettant de géolocaliser un utilisateur en matérialisant ses déplacements sur une carte interactive et en offrant la possibilité d’y ajouter des points d'intérêt et de les retrouver simplement.
+locaPic is a mobile application that allows a user to geolocate by materializing their movements on an interactive map and offering the possibility to add points of interest and find them easily.
 
-## Fonctionnalités
+## Features
 
-- Prendre des photos à l'aide de l'appareil photo intégré de votre téléphone.
-- Enregistrement des photos dans une galerie intégrée.
-- Visualisation de vos photos à tout moment.
+- Take photos using your phone's built-in camera.
+- Save photos in an integrated gallery.
+- View your photos at any time.
 
-## Technologies Utilisées
+## Technologies Used
 
 - React Native
 - Expo
@@ -18,4 +18,4 @@ locaPic est une application mobile permettant de géolocaliser un utilisateur en
 
 ## Contribution
 
-Pour contribuer à ce projet, veuillez consulter notre [guide de contribution](CONTRIBUTING.md).
+To contribute to this project, please see our [contribution guide](CONTRIBUTING.md).
